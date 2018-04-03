@@ -2,14 +2,12 @@
 
 Решить упражнения из проекта Rosalind:
 
-http://rosalind.info/problems/dna/
-
-http://rosalind.info/problems/rna/
-
-http://rosalind.info/problems/revc/
-
-http://rosalind.info/problems/gc/
-
-http://rosalind.info/problems/hamm/
-
-http://rosalind.info/problems/prot/
+1. http://rosalind.info/problems/dna/
+2. http://rosalind.info/problems/rna/
+3. http://rosalind.info/problems/revc/
+4. http://rosalind.info/problems/hamm/
+5. http://rosalind.info/problems/prot/
+6. http://rosalind.info/problems/subs/
+7. http://rosalind.info/problems/prtm/
+8. http://rosalind.info/problems/lexf/
+9. http://rosalind.info/problems/perm/
